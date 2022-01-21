@@ -8,20 +8,15 @@
 </p>
 <a href="https://github.com/yhuj79?tab=repositories">
   <img align="center"
-    src="https://github-readme-stats.vercel.app/api?username=yhuj79&show_icons=true&line_height=31.9&border_radius=15&hide_border=true&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api?username=yhuj79&show_icons=true&line_height=31.9&hide_border=true&theme=tokyonight"
     width=48.8%/>
 </a>
 <a href="https://github.com/yhuj79?tab=repositories">
   <img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhuj79&exclude_repo=MovieRank&border_radius=12&hide_border=true&langs_count=5&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhuj79&exclude_repo=MovieRank&hide_border=true&langs_count=5&layout=compact&theme=tokyonight"
     width=48.8%/>
 </a>
 <br></br>
 <a href="https://github.com/yhuj79?tab=repositories">
-  <img
-    src="https://activity-graph.herokuapp.com/graph?username=yhuj79&theme=react-dark&bg_color=1A1B27&hide_border=true&line=34862E&color=6FA4FC"
-    width=60% height=203/>
-</a>
-<a href="https://solved.ac/iguv">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=iguv&border_radius=3" alt="Solved.ac 프로필" width=37.6% height=203>
+  <img src="https://activity-graph.herokuapp.com/graph?username=yhuj79&theme=react-dark&bg_color=1A1B27&hide_border=true&line=34862E&color=6FA4FC" width=97.6%/>
 </a>
