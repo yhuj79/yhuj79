@@ -1,10 +1,5 @@
 <p>
-  <img href="https://github.com/yhuj79?tab=repositories"
-    src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></a>&nbsp
-  <img href="https://github.com/yhuj79?tab=repositories"
-    src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></a>&nbsp
-  <img href="https://github.com/yhuj79?tab=repositories"
-    src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>&nbsp
+  <img height="20" src="https://img.shields.io/badge/html5-%23E34F26.svg">
 </p>
 <a href="https://github.com/yhuj79?tab=repositories">
   <img align="center"
@@ -20,3 +15,9 @@
 <a href="https://github.com/yhuj79?tab=repositories">
   <img src="https://activity-graph.herokuapp.com/graph?username=yhuj79&theme=react-dark&bg_color=1A1B27&hide_border=true&line=34862E&color=6FA4FC" width=97.6%/>
 </a>
+
+
+
+<pre>
+<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+</pre>
