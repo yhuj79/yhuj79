@@ -20,7 +20,7 @@
 <a href="https://github.com/yhuj79?tab=repositories">
   <img
     src="https://activity-graph.herokuapp.com/graph?username=yhuj79&theme=react-dark&bg_color=1A1B27&hide_border=true&line=34862E&color=6FA4FC"
-    width=60% />
+    width=60% height=203/>
 </a>
 <a href="https://solved.ac/iguv">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=iguv&border_radius=3" alt="Solved.ac 프로필" width=37.6% height=203>
