@@ -6,19 +6,18 @@
   <!--<img height="50" src="https://camo.githubusercontent.com/98ce3f27aec475c03ad0441a7d4092f6b956814c7adc7f0049689dccedb82f1d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f72656163742e737667">&nbsp;
   <img height="51" src="http://iconsetc.com/icons-watermarks/flat-rounded-square-white-on-green-gradient/raphael/raphael_node-js/raphael_node-js_flat-rounded-square-white-on-green-gradient_512x512.png">&nbsp;-->
 </p>
-<a href="https://github.com/yhuj79?tab=repositories">
-  <img align="center"
-    src="https://github-readme-stats.vercel.app/api?username=yhuj79&show_icons=true&line_height=31.9&hide_border=true&theme=tokyonight"
-    width=48.8% />
+<div float="left">
+<a>
+<img src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/profile-summary-card-output/github_dark/3-stats.svg" width=44.3%/>
 </a>
-<a href="https://github.com/yhuj79?tab=repositories">
-  <img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhuj79&hide_border=true&langs_count=5&layout=compact&theme=tokyonight"
-    width=48.8% />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhuj79&hide_border=true&langs_count=5&layout=compact&theme=tokyonight" height=240/>
 </a>
-<br></br>
-<a href="https://github.com/yhuj79?tab=repositories">
-  <img
-    src="https://activity-graph.herokuapp.com/graph?username=yhuj79&theme=react-dark&bg_color=1A1B27&hide_border=true&line=34862E&color=6FA4FC"
-    width=97.6% />
+</div>
+<div float="left">
+<a>
+<img src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/profile-summary-card-output/github_dark/4-productive-time.svg" width=44.3%/>
 </a>
+<a href="https://solved.ac/yhuj79">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yhuj79&border_radius=3" alt="Solved.ac 프로필" width=53.3%/>
+</a>
+</div>
