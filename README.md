@@ -8,16 +8,16 @@
 </p>
 <div float="left">
 <a>
-<img src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/profile-summary-card-output/github_dark/3-stats.svg" width=44.3%/>
+  <img src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/profile-summary-card-output/github_dark/3-stats.svg" width=49%/>
 </a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhuj79&hide_border=true&border_radius=10&langs_count=6&layout=compact&theme=tokyonight" width=53.3% height=245/>
+  <img src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/profile-summary-card-output/github_dark/4-productive-time.svg" width=49%/>
 </a>
 </div>
 <div float="left">
 <a>
-<img src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/profile-summary-card-output/github_dark/4-productive-time.svg" width=44.3%/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhuj79&hide_border=true&border_radius=10&langs_count=6&layout=compact&theme=tokyonight" width=49%/>
 </a>
 <a href="https://solved.ac/yhuj79">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yhuj79" alt="Solved.ac 프로필" width=53.3%/>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yhuj79" alt="Solved.ac 프로필" width=49%/>
 </a>
 </div>
