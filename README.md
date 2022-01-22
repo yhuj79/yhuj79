@@ -18,6 +18,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhuj79&hide_border=true&border_radius=13&langs_count=6&layout=compact&theme=tokyonight" width=48.5%/>
 </a>&nbsp;
 <a href="https://solved.ac/yhuj79">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yhuj79" alt="Solved.ac 프로필" width=46.5%/>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yhuj79" alt="Solved.ac 프로필" width=48%/>
 </a>
 </div>
