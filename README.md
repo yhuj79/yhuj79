@@ -10,7 +10,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yhuj79&custom_title=GitHub Stats&show_icons=true&line_height=31.9&include_all_commits=true&count_private=true&border_radius=7&hide_border=true&theme=tokyonight" width=48.8%/>
 </a>
 <a href="https://github.com/yhuj79?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhuj79&exclude_repo=MovieRank&hide_border=true&langs_count=6&layout=compact&theme=tokyonight" width=48.2%/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhuj79&hide_border=true&langs_count=6&layout=compact&theme=tokyonight" width=48.2%/>
 </a>
 <br></br>
 <a href="https://github.com/yhuj79?tab=repositories">
