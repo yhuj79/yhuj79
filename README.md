@@ -10,7 +10,7 @@
 <a>
 <img src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/profile-summary-card-output/github_dark/3-stats.svg" width=44.3%/>
 </a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhuj79&hide_border=true&langs_count=5&layout=compact&theme=tokyonight" height=240/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhuj79&hide_border=true&langs_count=5&layout=compact&theme=tokyonight" width=53.3% height=250/>
 </a>
 </div>
 <div float="left">
