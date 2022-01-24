@@ -17,4 +17,4 @@
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=yhuj79&hide_title=false&area=true&theme=react-dark&bg_color=1A1B27&hide_border=true&line=34862E&area_color=34862E&point=86E57F&color=6FA4FC" width=97.4%/></a>-->
 <a href="https://github.com/yhuj79?tab=repositories">
   <img align="center" src="https://yhuj79-activity-graph.herokuapp.com/graph/?username=yhuj79&hide_title=false&area=true&theme=react-dark&bg_color=1A1B27&hide_border=true&line=34862E&area_color=34862E&point=86E57F&color=6FA4FC" width=97.4%/>
-</a>
+</a> 
