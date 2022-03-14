@@ -20,16 +20,15 @@
     
 </p>
 <a href="https://github.com/yhuj79?tab=repositories">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=yhuj79&custom_title=GitHub Stats&show_icons=true&line_height=31.9&include_all_commits=false&count_private=true&border_radius=7&border_color=747474&bg_color=EAEAEA&title_color=000000" width=48.8% />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=yhuj79&custom_title=GitHub Stats&show_icons=true&line_height=31.9&include_all_commits=false&count_private=true&border_radius=7&border_color=747474&bg_color=ECEFF4&title_color=3B4257" width=48.8% />
 </a>
 <a href="https://github.com/yhuj79?tab=repositories">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhuj79&langs_count=6&layout=compact&border_color=747474&bg_color=EAEAEA&title_color=000000" width=48.2% />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhuj79&langs_count=6&layout=compact&border_color=747474&bg_color=ECEFF4&title_color=3B4257" width=48.2% />
 </a>
 <br></br>
 <a href="https://github.com/yhuj79?tab=repositories">
+    <img align="center" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/profile-summary-card-output/nord_bright/0-profile-details.svg" width=99.2% />
+</a>
+<!--<a href="https://github.com/yhuj79?tab=repositories">
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=yhuj79&hide_title=false&area=true&hide_border=false&line=1DDB16&area_color=65FF5E&point=00B700&border_color=747474&bg_color=EAEAEA&color=000000" width=97.4%/>
-</a>
-  <br></br>
-<a href="https://github.com/yhuj79?tab=repositories">
-    <img align="center" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/profile-summary-card-output/default/0-profile-details.svg" width=97.4% />
-</a>
+</a>-->
