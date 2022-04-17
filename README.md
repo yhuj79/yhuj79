@@ -33,5 +33,5 @@
 </a>
 
 <!--<a href="https://github.com/yhuj79?tab=repositories">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=yhuj79&hide_title=false&area=true&hide_border=false&line=1DDB16&area_color=65FF5E&point=00B700&border_color=747474&bg_color=EAEAEA&color=000000" width=97.4%/>
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=yhuj79&hide_title=false&area=true&hide_border=false&line=1DDB16&area_color=65FF5E&point=00B700&border_color=747474&bg_color=2E3440&color=ECEFF4" width=97.4%/>
 </a>-->
