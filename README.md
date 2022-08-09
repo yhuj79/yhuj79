@@ -1,27 +1,30 @@
 <p>
-    <kbd href="https://code.visualstudio.com/">
+    <kbd>
         <img height="50" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/vsc.png">
     </kbd>
-    <kbd href="https://code.visualstudio.com/">
+    <kbd>
         <img height="50" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/intellij.png">
     </kbd>
-    <kbd href="https://code.visualstudio.com/">
+    <kbd>
         <img height="50" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/github.png">
     </kbd>
-    <kbd href="https://developer.mozilla.org/ko/docs/Web/HTML/Reference">
+    <kbd>
         <img height="50" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/html.png">
     </kbd>
-    <kbd href="https://developer.mozilla.org/ko/docs/Web/CSS/Reference">
+    <kbd>
         <img height="50" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/css.png">
     </kbd>
-    <kbd href="https://developer.mozilla.org/ko/docs/Web/JavaScript/Guide">
+    <kbd>
         <img height="50" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/javascript.png">
     </kbd>
-    <kbd href="https://ko.reactjs.org/">
+    <kbd>
         <img height="50" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/react.png">
     </kbd>
-    <kbd href="https://nodejs.org/en/about/">
+    <kbd>
         <img height="50" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/nodejs.png">
+    </kbd>
+    <kbd>
+        <img height="50" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/linux.png">
     </kbd>
 </p>
 
