@@ -9,10 +9,16 @@
         <img height="50" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/github.png">
     </kbd>
     <kbd>
+        <img height="50" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/linux.png">
+    </kbd>
+    <kbd>
         <img height="50" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/html.png">
     </kbd>
     <kbd>
         <img height="50" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/css.png">
+    </kbd>
+    <kbd>
+        <img height="50" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/sass.png">
     </kbd>
     <kbd>
         <img height="50" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/javascript.png">
@@ -23,16 +29,13 @@
     <kbd>
         <img height="50" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/nodejs.png">
     </kbd>
-    <kbd>
-        <img height="50" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/linux.png">
-    </kbd>
 </p>
 
 
 <p>
 <a href="https://github.com/yhuj79?tab=repositories">
     <img align="center" 
-         src="https://github-readme-stats.vercel.app/api?username=yhuj79&custom_title=GitHub Stats&show_icons=true&line_height=31.9&include_all_commits=false&count_private=true&border_radius=7&border_color=ECEFF4&bg_color=2E3440&title_color=ECEFF4&text_color=ECEFF4" width=48.8% />
+         src="https://github-readme-stats.vercel.app/api?username=yhuj79&custom_title=GitHub&nbsp;Stats&show_icons=true&line_height=31.9&include_all_commits=false&count_private=true&border_radius=7&border_color=ECEFF4&bg_color=2E3440&title_color=ECEFF4&text_color=ECEFF4" width=48.8% />
 </a>
 <a href="https://github.com/yhuj79?tab=repositories">
     <img align="center" 
