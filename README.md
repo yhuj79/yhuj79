@@ -6,6 +6,9 @@
         <img height="50" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/intellij.png">
     </kbd>
     <kbd>
+        <img height="50" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/jira.png">
+    </kbd>
+    <kbd>
         <img height="50" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/github.png">
     </kbd>
     <kbd>
