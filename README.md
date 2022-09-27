@@ -32,6 +32,9 @@
     <kbd>
         <img height="50" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/nodejs.png">
     </kbd>
+    <kbd>
+        <img height="50" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/swift.png">
+    </kbd>
 </p>
 
 
