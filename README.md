@@ -1,39 +1,39 @@
 <p>
     <kbd>
-        <img height="50" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/vsc.png">
+        <img height="30" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/vsc.png">
     </kbd>
     <kbd>
-        <img height="50" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/intellij.png">
+        <img height="30" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/intellij.png">
     </kbd>
     <kbd>
-        <img height="50" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/jira.png">
+        <img height="30" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/jira.png">
     </kbd>
     <kbd>
-        <img height="50" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/git.png">
+        <img height="30" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/git.png">
     </kbd>
     <kbd>
-        <img height="50" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/linux.png">
+        <img height="30" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/linux.png">
     </kbd>
     <kbd>
-        <img height="50" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/html.png">
+        <img height="30" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/html.png">
     </kbd>
     <kbd>
-        <img height="50" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/css.png">
+        <img height="30" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/css.png">
     </kbd>
     <kbd>
-        <img height="50" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/sass.png">
+        <img height="30" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/sass.png">
     </kbd>
     <kbd>
-        <img height="50" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/javascript.png">
+        <img height="30" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/javascript.png">
     </kbd>
     <kbd>
-        <img height="50" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/react.png">
+        <img height="30" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/react.png">
     </kbd>
     <kbd>
-        <img height="50" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/nodejs.png">
+        <img height="30" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/nodejs.png">
     </kbd>
     <kbd>
-        <img height="50" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/swift.png">
+        <img height="30" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/swift.png">
     </kbd>
 </p>
 
