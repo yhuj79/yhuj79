@@ -1,48 +1,54 @@
-<p>
-    <kbd>
-        <img height="35" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/vsc.png">
-    </kbd>
-    <kbd>
-        <img height="35" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/intellij.png">
-    </kbd>
-    <kbd>
-        <img height="35" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/xcode.png">
-    </kbd>
-    <kbd>
-        <img height="35" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/jira.png">
-    </kbd>
-    <kbd>
-        <img height="35" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/git.png">
-    </kbd>
-    <kbd>
-        <img height="35" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/linux.png">
-    </kbd>
-    <kbd>
-        <img height="35" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/html.png">
-    </kbd>
-    <kbd>
-        <img height="35" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/css.png">
-    </kbd>
-    <kbd>
-        <img height="35" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/sass.png">
-    </kbd>
-    <kbd>
-        <img height="35" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/javascript.png">
-    </kbd>
-    <kbd>
-        <img height="35" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/react.png">
-    </kbd>
-    <kbd>
-        <img height="35" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/nextjs.png">
-    </kbd>
-    <kbd>
-        <img height="35" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/nodejs.png">
-    </kbd>
-    <kbd>
-        <img height="35" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/swift.png">
-    </kbd>
-</p>
-
+<table>
+  <tr>
+    <td valign="top">
+        <kbd>
+            <img height="35" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/vsc.png">
+        </kbd>
+        <kbd>
+            <img height="35" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/intellij.png">
+        </kbd>
+        <kbd>
+            <img height="35" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/xcode.png">
+        </kbd>
+        <kbd>
+            <img height="35" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/jira.png">
+        </kbd>
+        <kbd>
+            <img height="35" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/git.png">
+        </kbd>
+        <kbd>
+            <img height="35" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/linux.png">
+        </kbd>
+        <kbd>
+            <img height="35" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/html.png">
+        </kbd>
+        <kbd>
+            <img height="35" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/css.png">
+        </kbd>
+        <kbd>
+            <img height="35" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/sass.png">
+        </kbd>
+        <kbd>
+            <img height="35" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/javascript.png">
+        </kbd>
+        <kbd>
+            <img height="35" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/react.png">
+        </kbd>
+        <kbd>
+            <img height="35" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/nextjs.png">
+        </kbd>
+        <kbd>
+            <img height="35" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/nodejs.png">
+        </kbd>
+        <kbd>
+            <img height="35" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/swift.png">
+        </kbd>
+        </td>
+    <td valign="top">
+        <img src="http://mazassumnida.wtf/api/generate_badge?boj=yhuj79"/>
+    </td>
+  </tr>
+</table>
 
 <p>
 <a href="https://github.com/yhuj79?tab=repositories">
