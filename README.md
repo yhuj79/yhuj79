@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td valign="top">
+    <td valign="top" width=48.8%>
         <kbd>
             <img height="35" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/vsc.png">
         </kbd>
@@ -44,7 +44,7 @@
             <img height="35" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/swift.png">
         </kbd>
         </td>
-    <td valign="top">
+    <td valign="top" width=48.8%>
         <img src="http://mazassumnida.wtf/api/generate_badge?boj=yhuj79"/>
     </td>
   </tr>
