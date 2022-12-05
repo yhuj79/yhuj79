@@ -61,9 +61,12 @@
 
 <p>
     <a href="https://github.com/yhuj79?tab=repositories">
-        <img align="center" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/profile-summary-card-output/nord_dark/0-profile-details.svg" width=99% />
+        <img align="center" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/profile-summary-card-output/nord_dark/0-profile-details.svg" width=61.7% />
     </a>
-</p>   
+    <a href="https://github.com/yhuj79?tab=repositories">
+        <img align="center" src="http://mazassumnida.wtf/api/generate_badge?boj=yhuj79" width=35.7% />    
+    </a>
+</p> 
 
 <!-- <p>
     <a href="https://github.com/yhuj79?tab=repositories">
