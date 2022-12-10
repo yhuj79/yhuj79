@@ -44,6 +44,15 @@
     <kbd>
         <img height="35" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/swift.png">
     </kbd>
+    <kbd>
+        <img height="35" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/mysql.png">
+    </kbd>
+    <kbd>
+        <img height="35" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/planetscale.png">
+    </kbd>
+    <kbd>
+        <img height="35" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/prisma.png">
+    </kbd>
 </p>
 
 
