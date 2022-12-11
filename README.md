@@ -1,4 +1,6 @@
-<p>
+<img src="https://skillicons.dev/icons?i=vscode,idea,git,github,linux,html,css,js,react,nextjs,nodejs,mysql,express,prisma,swift&perline=15" alt="techstack" /> 
+
+<!-- <p>
     <kbd>
         <img height="35" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/vsc.png">
     </kbd>
@@ -53,7 +55,7 @@
     <kbd>
         <img height="35" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/icon/prisma.png">
     </kbd>
-</p>
+</p> -->
 
 
 <p>
