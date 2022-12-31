@@ -1,4 +1,8 @@
-<img src="https://skillicons.dev/icons?i=vscode,idea,git,github,linux,html,css,js,react,nextjs,nodejs,mysql,express,prisma,swift&perline=15" alt="techstack" /> 
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=vscode,idea,linux,git,github,md,html,css,js,react,nextjs,gatsby,nodejs,mysql,express,prisma,heroku,swift&perline=9" alt="techstack" /> 
+    </a>
+</p>
 
 <p>
     <a href="https://github.com/yhuj79?tab=repositories">
