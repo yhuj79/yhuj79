@@ -1,17 +1,17 @@
-<p align="center">
+<p>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=vscode,idea,linux,git,github,md,html,css,js,react,nextjs,gatsby,nodejs,mysql,express,prisma,heroku,swift" alt="techstack" /> 
+        <img src="https://skillicons.dev/icons?i=vscode,idea,linux,git,github,md,html,css,js,react,nextjs,gatsby,nodejs,mysql,express,prisma,heroku,swift&perline=9" alt="techstack" /> 
     </a>
 </p>
 
 <p>
     <a href="https://github.com/yhuj79?tab=repositories">
         <img align="center" 
-         src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yhuj79&custom_title=GitHub&nbsp;Stats&show_icons=true&line_height=31.9&include_all_commits=false&count_private=true&border_radius=7&border_color=ECEFF4&bg_color=2E3440&title_color=ECEFF4&text_color=ECEFF4" width=47.5% />
+         src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yhuj79&custom_title=GitHub&nbsp;Stats&show_icons=true&line_height=31.9&include_all_commits=false&count_private=true&border_radius=7&border_color=ECEFF4&bg_color=2E3440&title_color=ECEFF4&text_color=ECEFF4" width=47.6% />
     </a>
     <a href="https://github.com/yhuj79?tab=repositories">
         <img align="center" 
-         src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yhuj79&langs_count=6&layout=compact&border_color=ECEFF4&bg_color=2E3440&title_color=ECEFF4&text_color=ECEFF4" width=49.8% />
+         src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yhuj79&langs_count=6&layout=compact&border_color=ECEFF4&bg_color=2E3440&title_color=ECEFF4&text_color=ECEFF4" width=49.7% />
     </a>
 </p>
 <!-- <p>
