@@ -15,11 +15,11 @@
     </a>
 </p>
 
-<!-- <p>
+<p>
     <a href="https://github.com/yhuj79?tab=repositories">
         <img align="center" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/profile-summary-card-output/nord_dark/0-profile-details.svg" width=61.8% />
     </a>
     <a href="https://github.com/yhuj79?tab=repositories">
         <img align="center" src="http://mazassumnida.wtf/api/generate_badge?boj=yhuj79" width=35.6% />    
     </a>
-</p> -->
+</p>
