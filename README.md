@@ -14,7 +14,7 @@
          src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yhuj79&langs_count=6&layout=compact&border_color=ECEFF4&bg_color=2E3440&title_color=ECEFF4&text_color=ECEFF4" width=46.1% />
     </a>
 </p>
-
+<!--
 <p>
     <a href="https://github.com/yhuj79?tab=repositories">
         <img align="center" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/profile-summary-card-output/nord_dark/0-profile-details.svg" width=61.4% />
@@ -23,3 +23,4 @@
         <img align="center" src="http://mazassumnida.wtf/api/generate_badge?boj=yhuj79" width=36.3% />    
     </a>
 </p>
+-->
