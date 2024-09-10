@@ -1,6 +1,6 @@
 <p>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=vscode,linux,git,github,c,md,html,css,js,typescript,react,nextjs,py,swift,gatsby,nodejs,mysql,express,prisma,heroku&perline=10" alt="techstack" /> 
+        <img src="https://skillicons.dev/icons?i=vscode,figma,github,md,html,css,materialui,tailwind,js,typescript,react,nextjs,gatsby&perline=13" alt="techstack" /> 
     </a>
 </p>
 
@@ -17,9 +17,6 @@
 
 <p>
     <a href="https://github.com/yhuj79?tab=repositories">
-        <img align="center" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/profile-summary-card-output/nord_dark/0-profile-details.svg" width=61.4% />
-    </a>
-    <a href="https://github.com/yhuj79?tab=repositories">
-        <img align="center" src="http://mazassumnida.wtf/api/generate_badge?boj=yhuj79" width=36.3% />    
+        <img align="center" src="https://raw.githubusercontent.com/yhuj79/yhuj79/main/profile-summary-card-output/nord_dark/0-profile-details.svg" width=97.9% />
     </a>
 </p>
